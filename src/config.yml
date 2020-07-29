@@ -1,0 +1,9 @@
+#Hello People
+#Be careful, this config has a lot of settings.
+#If you don't know how it work - I also don't know.
+
+#Messages placeholders
+message: |-
+  &3&l* &b&lSUBSCRIBED &3&L*
+
+  &7&o(( The server your trying to connect is under maintenance. ))
